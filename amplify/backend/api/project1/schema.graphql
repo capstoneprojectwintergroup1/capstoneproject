@@ -1,0 +1,15 @@
+type UserRegistration @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  firstname: String!
+  lastname: String!
+  email: AWSEmail!
+  phone: AWSPhone
+  username: String!
+  password: String!
+  Institution: [String]
+  resume: AWSURL!
+  education: [AWSJSON]
+  skills: [String]
+  UserJoinDate: AWSDate
+}
+ 

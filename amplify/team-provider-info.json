@@ -1,0 +1,29 @@
+{
+  "main": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-project1-main-12514-authRole",
+      "UnauthRoleArn": "arn:aws:iam::654654397117:role/amplify-project1-main-12514-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::654654397117:role/amplify-project1-main-12514-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-project1-main-12514-deployment",
+      "UnauthRoleName": "amplify-project1-main-12514-unauthRole",
+      "StackName": "amplify-project1-main-12514",
+      "StackId": "arn:aws:cloudformation:us-east-1:654654397117:stack/amplify-project1-main-12514/63c0c300-d6a1-11ee-a6a3-12bbc6b9b617",
+      "AmplifyAppId": "d1pao0h8wgenru"
+    },
+    "categories": {
+      "auth": {
+        "capstoneproject26cb1e6f26cb1e6f": {},
+        "capstoneproject9a9ccbb19a9ccbb1": {},
+        "capstoneprojectcd1374d2cd1374d2": {},
+        "capstoneprojectd63c844fd63c844f": {}
+      },
+      "storage": {
+        "s3capstoneprojectstorage261f16ed": {}
+      },
+      "api": {
+        "project1": {}
+      }
+    }
+  }
+}
